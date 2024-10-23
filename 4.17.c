@@ -12,6 +12,7 @@ int main(void) {
     scanf("%d", &nn);
     
     
+    // COMPILATORE NON COMPILA, C`E` UN ERRORE CON <stdlib.h>
 
     return 0;
 }

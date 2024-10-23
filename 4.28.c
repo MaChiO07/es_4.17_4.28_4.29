@@ -3,7 +3,7 @@
 
 int main(void) {
 
-
+    // dichiarazioni variabili
     int i;
     int number;
     int max = 0;
@@ -23,6 +23,7 @@ int main(void) {
 
     }
 
+    // risultato 
     printf("Numero massimo e` %d", max);
 
     return 0;
